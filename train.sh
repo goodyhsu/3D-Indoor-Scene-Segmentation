@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python3 ./PointMetaBase/examples/segmentation/main.py --cfg ./PointMetaBase/cfgs/scannet_CE/pointmetabase-xxl.yaml save_freq=5 epochs=125

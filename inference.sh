@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python3 ./PointMetaBase/examples/segmentation/main.py --cfg ./PointMetaBase/cfgs/scannet_CE/pointmetabase-xxl.yaml mode=test dataset.test.split=test no_label=True pretrained_path=./best.pth save_pred=True save_path=$1
