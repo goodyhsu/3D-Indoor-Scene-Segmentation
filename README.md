@@ -5,7 +5,7 @@
 We provide a simple bash file to install the environment:
 ```
 git clone https://github.com/goodyhsu/3D-Indoor-Scene-Segmentation.git
-cd final-project-challenge-2-il0ve4my
+cd 3D-Indoor-Scene-Segmentation
 source install.sh
 ```
 Cuda-11.3 is required. Modify `install.sh` if different cuda version is used. See [Install](https://github.com/guochengqian/PointNeXt/blob/master/docs/index.md) for details.
