@@ -1,4 +1,4 @@
-# DLCV Final Project ( 3D ScanNet200 long-tail segmentation )
+# 3D ScanNet200 long-tail segmentation
 
 # How to run code
 ## Installation
